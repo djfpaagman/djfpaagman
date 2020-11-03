@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Dennis Paagman, an independent developer who's passionate about building great products. I have been building, testing, and deploying Ruby on Rails apps for over 10 years.
+
+### More info 📫
+
+If you want to get in touch, please contact met at dennis@paagman.dev.
+
 <!--
 **djfpaagman/djfpaagman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
